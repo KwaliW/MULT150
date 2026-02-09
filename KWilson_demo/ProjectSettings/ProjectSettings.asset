@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 24
-  productGUID: e10c0d9e4f2b5274fb0b18b796f82cf8
+  productGUID: d492a8116479a474dadc5fc60509e896
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -721,11 +721,11 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 
+  cloudProjectId: 5c2b1a32-8d4e-4d98-b684-7d92ad935dd0
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
-  organizationId: 
+  projectName: KWilson_Hour1
+  organizationId: qxrv
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   playerDataPath: 
