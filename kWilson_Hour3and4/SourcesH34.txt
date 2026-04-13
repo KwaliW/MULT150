@@ -6,9 +6,9 @@
                                                                                                                                                                   
 
 
-Texture 1 source url:
+Texture 1 source url:https://texturelabs.org/textures/wood_169/
 
-Texture 2 source url:
+Texture 2 source url:https://texturelabs.org/textures/concrete_193/
 
-3D model source url:
+3D model source url:https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/free-low-poly-human-rpg-character-219979
 
