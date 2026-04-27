@@ -1,0 +1,4 @@
+// The first extra that I added was another goal for the chaos ball! To do this I just duplicated one of the existing goals and changed the light and name of it, as well as the tag to the goal so it would work for a chaos ball
+// The second thing that I added was a restart button at the end of the game to restart after all the goals are activated. 
+// The third thing that I did was was adding a timer telling the player how long it took them to be able to complete the game. This is also shown during the restart screen so a player knows!
+// The last thing that I did was make the player wall bigger so it was a little easier to be able to hit the chaos balls because they are moving so fast.
